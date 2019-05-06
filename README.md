@@ -16,9 +16,16 @@ relative to the time of the previous scan.
 | Max Range      | 10.0 m        |
 | Scan Frequency | ~7.5 Hz       |
 | Scan Size      | ~640          |
+| Scan Angle     | 360 Degress   |
 
 
 ## Data Format
+
+Each line represents 1 scan. The first three numbers represent
+the post change, containing distance traveled, change in angle,
+and elapsed time, respectively. The remaining data contains each
+individual sample from the lidar scan. The samples are distance measurements
+(in meters) with a constant angle between each sample.
 
 
 ## Examples
