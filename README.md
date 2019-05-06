@@ -6,7 +6,7 @@ relative to the time of the previous scan.
 
 ### The Robot
 
-[!](http://broombot.express-portfolios.com/img/portfolio/robot.jpg)
+![](http://broombot.express-portfolios.com/img/portfolio/robot.jpg)
 
 ## Scan Format
 
@@ -25,10 +25,10 @@ relative to the time of the previous scan.
 
 #### Lidar Scan Visualized
 
-[!](http://broombot.express-portfolios.com/img/portfolio/lidar.png)
+![](http://broombot.express-portfolios.com/img/portfolio/lidar.png)
 
 
 #### Example Map with CoreSLAM
 
-[!](http://broombot.express-portfolios.com/img/portfolio/map.png)
+![](http://broombot.express-portfolios.com/img/portfolio/map.png)
 
